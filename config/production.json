@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "rita mern pain",
+  "mongoUri": "mongodb+srv://Rita:50404DataRM-sa43Q@cluster-mern.wdlrn.mongodb.net/mern-app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
